@@ -41,18 +41,20 @@ main {
 }
 
 section{
-    box-sizing: content-box;
+    background-color: #F3F3F3    ;
+    margin-top: 150px;
+    padding-bottom: 20px;
 }
 .card {
     position: relative;
   display: grid;
-  margin-top: 150px;
 }
 
 .card-heroe {
     border-radius: 8% 8% 0 0;
     height: 193px;
     width: 300px;
+    background-color: #F3F3F3    
 }
 
 .like {
@@ -70,6 +72,7 @@ section{
 
 .card-contenido{
     margin-top: 80px;
+    
 }
 
 .card-contenido h2 {
